@@ -13,3 +13,8 @@ si asierta el usuario le aparese una (alert) de felizidades asertaste el numero,
 Defini las variables con (let) a la ves que le digo que el numero minimo es [1] y el maximo es [20] 
 a la ves una (aleatorio) para que me de un numero aleatorio a la ves Ingreso variables tipo 
 (Math.floor) y (Math.random) para que den numeros aleatorios y uso (consol.log) para que me imprima el resultado
+
+## Ejercicio4
+Uso (for) para iniciar un bucle, dentro se hace una variable (let) i dentro se una una una variable (i) para que el ciclo acabe cuando alcanse el el valor dado [100]
+si es Los múltiplos de [3] se reemplazan con "Fizz", o si Los múltiplos de [5] con "Buzz"
+o si son multiplos de ambos es "FizzBuzz"
